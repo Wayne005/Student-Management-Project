@@ -1,8 +1,8 @@
 # Student-Management-Project
-For teachers to manage students grades from csv files using python :)
-## function: 
-1. average scores per course
-2. highest and lowest scoring subjects
-3. failing students wwith and without name
-4. average total score for student
-5. highes and lowest scoring students in a subject
+This project can help teachers sort out the students grades by reading the csv files usd in the code.
+## Functions: 
+1. Finds the average score for each course
+2. Finds the best and worst scoring courses
+3. Finds the amount and name of the failing students or students who scored under a set grade
+4. Calculates the average score for all the courses of a student
+5. Finds the best and worst scoring students in each course
