@@ -1,5 +1,5 @@
 # Student Management Project
-This project can help teachers sort out the students grades by reading the CSV files formatted in the code.
+This python project can help teachers sort out the students grades by reading the CSV files formatted in the code.
 ## Functions: 
 1. Finds the average score for each course
 2. Finds the best and worst scoring courses
